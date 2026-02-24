@@ -2,9 +2,8 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <div>
-        <h1>K L Univeristy, vaddeswaram</h1>
-    </div>
+    <div style={{height:"20vh",display:"flex",justifyContent:"center",fontWeight:"bold", fontSize:"40px", color:"mediumblue"}}>
+      KL university</div>
   )
 }
 
